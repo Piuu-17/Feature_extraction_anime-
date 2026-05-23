@@ -2,7 +2,7 @@
 
 Project Description
 
-This project focuses on feature extraction and basic data analysis using Python and Pandas on an anime dataset. The notebook extracts meaningful information such as the number of episodes and total runtime from raw text data in the `Title` column, creates new structured features, and performs simple exploratory analysis to identify top-rated and longest-running anime.
+This project focuses on feature extraction and basic data analysis using Python and Pandas on an anime dataset. The notebook extracts meaningful information such as the number of episodes and total runtime from raw text data in the title column, creates new structured features, and performs simple exploratory analysis to identify top-rated and longest-running anime.
 
 The project demonstrates:
 
